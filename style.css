@@ -1,0 +1,73 @@
+
+
+body{
+    color:black;
+    
+}
+div.forms{
+    display: block;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: 30px;
+}
+div.forms1{
+    display: flex;
+    flex-wrap: wrap;
+}
+div.forms2{
+    display: flex;
+}
+section#reponse_film{
+display: flex;
+justify-content: center;
+
+}
+
+div.forms form{
+   display: flex; 
+}
+a{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+div.forms div{
+    display: block;
+    justify-content: left;
+    
+
+}
+div.forms{
+    display: flex;
+    justify-content: cnter;
+    margin-left: 100px;
+}
+li a{
+    text-decoration:none;
+    margin-left: 20px;
+    color: black;
+}
+nav{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    
+}
+h4{
+    margin-left: 0px;
+    color: violet;
+}
+footer{
+    background-color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color:violet;
+}
+html{
+    background-color: black;
+}
+.nom_prenom{
+    display: flex;
+    justify-content: center;
+}
